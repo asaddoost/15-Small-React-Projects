@@ -2,7 +2,8 @@
 
 ✨I decided to improve my React and for this reason, I started to create small React projects every day. and this repository is my source code for those projects.
 
-To do these projects, I watched a great video by John Smilga. You can find that video and the main project repository from the links below:
+To do these projects, I watched a great video by John Smilga. You can find that video and the main project repository from the links below:<br/>
+
 [▶️ Demo Projects](https://react-projects.netlify.app/)<br/>
 [▶️ Video on youtube](https://www.youtube.com/watch?v=a_7Z7C_JCyo)<br/>
 [▶️ Projects Repository](https://github.com/john-smilga/react-projects)<br/>
